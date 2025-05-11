@@ -1,0 +1,22 @@
+img
+{
+    border: 5px solid red;
+   
+    width: 400px;
+    height: 300px;
+ }
+ p
+ {
+    color: bisque;
+    font-size: 140px;
+    margin: 20px;
+ }
+ button 
+ {
+    background-color: yellow;
+    
+ }
+ input
+ {
+    background-color: yellow;
+ }
